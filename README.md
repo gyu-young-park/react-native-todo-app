@@ -1,3 +1,4 @@
-# react-native-typescript-starter
-
-react-native 기존 프로젝트에서 typescript와 styled-component, babel-plugin-root-import를 추가한 버전입니다.
+# react-native-todo-app  
+  
+react-native를 공부하기 위해 만든 todo app입니다.  
+상태 관리로는 context API를 사용하였고, 데이터 저장으로는 AsyncStorage를 사용하였습니다.  
